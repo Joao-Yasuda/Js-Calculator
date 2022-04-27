@@ -7,7 +7,7 @@ in this project i developed a simple calculator with vanilla JavaScript
 
 ## 📐 Layout
 
-<img height= 300px src="./preview.png">
+<img height= 300px src="./Preview.png">
 
 ## 🚀 Techs
 
